@@ -1,0 +1,39 @@
+body {
+  margin: 0px auto;
+  padding: 0px auto;
+  height: 100%;
+  background-color: #1a1f34;
+  /* background-color: #749c3f; */
+  overflow-y: scroll;
+}
+
+.cuadroJugador{
+  background-color: brown;
+  color: white;
+  width: 150px;
+  padding: 10px;
+  text-align: center;
+}
+
+.headerPrincipal{
+  background-color: #af5602;
+  width: 100%;
+  text-align: center;
+}
+
+.textHeader{
+  color: white;
+}
+
+.buttonTournament{
+  background-color: #02af2d;
+  width: 150px;
+  padding: 10px;
+}
+
+.buttonLoadTourn{
+  background-color: #92430e;
+  width: 350px;
+  padding: 10px;
+  display: flex;
+}
